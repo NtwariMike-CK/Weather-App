@@ -16,7 +16,7 @@ Access the live application here.
 ## Technologies Used
 - Frontend: HTML, CSS, JavaScript
 - API: OpenWeatherMap API for fetching real-time weather data.
-- Deployment: Hosted using GitHub Pages.
+- Deployment: Hosted using GitHub servers with nginx
 
 ## How It Works
 
